@@ -1,103 +1,61 @@
 fileFormatVersion: 2
-guid: 999cddc9a5fc15c4eb0f3d6720b6bcec
+guid: 9ec52d50c4dda364789e9358caa7e3f5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2803942676560842720
-    second: Fighter-M-01 light_0
+      213: -9115202696152208669
+    second: Player32x32_0
   - first:
-      213: -2539438370247920078
-    second: Fighter-M-01 light_1
+      213: 300713115190289231
+    second: Player32x32_1
   - first:
-      213: 3783647787347557066
-    second: Fighter-M-01 light_2
+      213: 511977525878597774
+    second: Player32x32_2
   - first:
-      213: -4327960225869608300
-    second: Fighter-M-01 light_3
+      213: 4973707177852816441
+    second: Player32x32_3
   - first:
-      213: 4189614207867906567
-    second: Fighter-M-01 light_4
+      213: 8662320656860139782
+    second: Player32x32_4
   - first:
-      213: -7296738608889064726
-    second: Fighter-M-01 light_5
+      213: -5610071631835132936
+    second: Player32x32_5
   - first:
-      213: 8635627600618066718
-    second: Fighter-M-01 light_6
+      213: -7410576735231359830
+    second: Player32x32_6
   - first:
-      213: 5441557360861119320
-    second: Fighter-M-01 light_7
+      213: 7211408704748770161
+    second: Player32x32_7
   - first:
-      213: -3750285447466835004
-    second: Fighter-M-01 light_8
+      213: 949440331131266897
+    second: Player32x32_8
   - first:
-      213: 1957984024693150595
-    second: Fighter-M-01 light_9
+      213: -2545933035311072630
+    second: Player32x32_9
   - first:
-      213: -2651210849258064139
-    second: Fighter-M-01 light_10
+      213: -7627275275100421898
+    second: Player32x32_10
   - first:
-      213: -3305643006733673185
-    second: Fighter-M-01 light_11
+      213: 5133793533438174659
+    second: Player32x32_11
   - first:
-      213: -4324159247091008692
-    second: Fighter-M-01 light_12
+      213: 5012491988584609388
+    second: Player32x32_12
   - first:
-      213: 4924210654583399601
-    second: Fighter-M-01 light_13
+      213: 4215150033868432936
+    second: Player32x32_13
   - first:
-      213: -4857891985584424173
-    second: Fighter-M-01 light_14
+      213: -4886354745810589105
+    second: Player32x32_14
   - first:
-      213: 2593724348667372794
-    second: Fighter-M-01 light_15
+      213: 1867595178076677119
+    second: Player32x32_15
   - first:
-      213: -8793819705968429987
-    second: Fighter-M-01 light_16
+      213: -1256800835895821645
+    second: Player32x32_16
   - first:
-      213: 7898280639676400811
-    second: Fighter-M-01 light_17
-  - first:
-      213: -1917893722984136233
-    second: Fighter-M-01 light_18
-  - first:
-      213: -8006708234975307215
-    second: Fighter-M-01 light_19
-  - first:
-      213: -3372425552260891853
-    second: Fighter-M-01 light_20
-  - first:
-      213: 7590552454712864570
-    second: Fighter-M-01 light_21
-  - first:
-      213: 921600184508719981
-    second: Fighter-M-01 light_22
-  - first:
-      213: -3618113987437774226
-    second: Fighter-M-01 light_23
-  - first:
-      213: -4866158529665128057
-    second: Fighter-M-01 light_24
-  - first:
-      213: -3894981616895760929
-    second: Fighter-M-01 light_25
-  - first:
-      213: 3782281024596494120
-    second: Fighter-M-01 light_26
-  - first:
-      213: -1816175135765743505
-    second: Fighter-M-01 light_27
-  - first:
-      213: 2525699686265036496
-    second: Fighter-M-01 light_28
-  - first:
-      213: -498863721049072295
-    second: Fighter-M-01 light_29
-  - first:
-      213: -2231980823642395250
-    second: Fighter-M-01 light_30
-  - first:
-      213: 6571089365076097224
-    second: Fighter-M-01 light_31
+      213: 1474994670490695227
+    second: Player32x32_17
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -139,7 +97,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -185,76 +143,97 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fighter-M-01 light_0
+      name: Player32x32_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 6
         y: 96
-        width: 25
-        height: 32
+        width: 17
+        height: 28
       alignment: 4
       pivot: {x: 0, y: 0.5}
-      border: {x: 6, y: 0, z: 6, w: 7}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0207809ddf46619d0800000000000000
-      internalID: -2803942676560842720
+      spriteID: 3ea2a28317b408180800000000000000
+      internalID: -9115202696152208669
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fighter-M-01 light_1
+      name: Player32x32_1
       rect:
         serializedVersion: 2
-        x: 25
+        x: 38
         y: 96
-        width: 25
-        height: 32
+        width: 17
+        height: 28
       alignment: 4
       pivot: {x: 0, y: 0.5}
-      border: {x: 3, y: 0, z: 6, w: 6}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 236306cb14a12ccd0800000000000000
-      internalID: -2539438370247920078
+      spriteID: f43e73a2cf85c2400800000000000000
+      internalID: 300713115190289231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fighter-M-01 light_2
+      name: Player32x32_2
       rect:
         serializedVersion: 2
-        x: 50
+        x: 70
         y: 96
-        width: 25
-        height: 32
+        width: 17
+        height: 28
       alignment: 4
       pivot: {x: 0, y: 0.5}
-      border: {x: 3, y: 0, z: 9, w: 7}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aca3b00bd97328430800000000000000
-      internalID: 3783647787347557066
+      spriteID: e882af2e8d8ea1700800000000000000
+      internalID: 511977525878597774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fighter-M-01 light_6
+      name: Player32x32_3
       rect:
         serializedVersion: 2
-        x: 0
+        x: 102
+        y: 96
+        width: 17
+        height: 28
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c4ab09358260540800000000000000
+      internalID: 4973707177852816441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player32x32_4
+      rect:
+        serializedVersion: 2
+        x: 8
         y: 64
-        width: 25
-        height: 32
+        width: 17
+        height: 28
       alignment: 4
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,20 +241,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e13166b9c89e7d770800000000000000
-      internalID: 8635627600618066718
+      spriteID: 6015da21ebeb63870800000000000000
+      internalID: 8662320656860139782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fighter-M-01 light_7
+      name: Player32x32_5
       rect:
         serializedVersion: 2
-        x: 25
+        x: 40
         y: 64
-        width: 25
-        height: 32
+        width: 17
+        height: 28
       alignment: 4
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,20 +262,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8530a0fc69b448b40800000000000000
-      internalID: 5441557360861119320
+      spriteID: 8fb88f303950522b0800000000000000
+      internalID: -5610071631835132936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fighter-M-01 light_8
+      name: Player32x32_6
       rect:
         serializedVersion: 2
-        x: 50
+        x: 72
         y: 64
-        width: 25
-        height: 32
+        width: 17
+        height: 28
       alignment: 4
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,20 +283,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c32c61614f44fbc0800000000000000
-      internalID: -3750285447466835004
+      spriteID: aa4c2c3e8b7582990800000000000000
+      internalID: -7410576735231359830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fighter-M-01 light_12
+      name: Player32x32_7
       rect:
         serializedVersion: 2
-        x: 0
+        x: 104
+        y: 64
+        width: 17
+        height: 28
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173d5b06202141460800000000000000
+      internalID: 7211408704748770161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player32x32_8
+      rect:
+        serializedVersion: 2
+        x: 6
         y: 32
-        width: 25
-        height: 32
+        width: 18
+        height: 27
       alignment: 4
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,20 +325,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4b7bec33108df3c0800000000000000
-      internalID: -4324159247091008692
+      spriteID: 157228863f61d2d00800000000000000
+      internalID: 949440331131266897
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fighter-M-01 light_13
+      name: Player32x32_9
       rect:
         serializedVersion: 2
-        x: 25
+        x: 38
         y: 32
-        width: 25
-        height: 32
+        width: 18
+        height: 27
       alignment: 4
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,20 +346,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b423a1308f465440800000000000000
-      internalID: 4924210654583399601
+      spriteID: a8af950b4670bacd0800000000000000
+      internalID: -2545933035311072630
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fighter-M-01 light_14
+      name: Player32x32_10
       rect:
         serializedVersion: 2
-        x: 50
+        x: 71
         y: 32
-        width: 25
-        height: 32
+        width: 18
+        height: 27
       alignment: 4
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -367,20 +367,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31bf5023afc459cb0800000000000000
-      internalID: -4857891985584424173
+      spriteID: 6f0058f5c89762690800000000000000
+      internalID: -7627275275100421898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fighter-M-01 light_18
+      name: Player32x32_11
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 25
-        height: 32
+        x: 103
+        y: 32
+        width: 18
+        height: 27
       alignment: 4
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,20 +388,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d1449402d54265e0800000000000000
-      internalID: -1917893722984136233
+      spriteID: 3c5a7c6c406ee3740800000000000000
+      internalID: 5133793533438174659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fighter-M-01 light_19
+      name: Player32x32_12
       rect:
         serializedVersion: 2
-        x: 25
+        x: 7
         y: 0
-        width: 25
-        height: 32
+        width: 18
+        height: 27
       alignment: 4
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,20 +409,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13a1a1a184572e090800000000000000
-      internalID: -8006708234975307215
+      spriteID: c66b31308e2ff8540800000000000000
+      internalID: 5012491988584609388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fighter-M-01 light_20
+      name: Player32x32_13
       rect:
         serializedVersion: 2
-        x: 50
+        x: 39
         y: 0
-        width: 25
-        height: 32
+        width: 18
+        height: 26
       alignment: 4
       pivot: {x: 0, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -430,8 +430,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33bf90ef3dcb231d0800000000000000
-      internalID: -3372425552260891853
+      spriteID: 82624bb7f983f7a30800000000000000
+      internalID: 4215150033868432936
       vertices: []
       indices: 
       edges: []
