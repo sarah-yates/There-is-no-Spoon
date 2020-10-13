@@ -36,7 +36,7 @@ public class PlayerInput : MonoBehaviour
         {
             animator.SetInteger("AnimationState", 3);
         }
-        else if (movementVector.Equals(0)) //Idle
+        else //Idle
         {
             animator.SetInteger("AnimationState", 0);
         }
