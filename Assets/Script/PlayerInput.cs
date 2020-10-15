@@ -43,7 +43,7 @@ public class PlayerInput : MonoBehaviour
     }
     void OnMove(InputValue movementValue)
     {
-        movementVector = movementValue.Get<Vector2>();
+        movementVector = movementValue.Get<Vector2>()*movementSpeed;
     }
 
     private void FixedUpdate()
