@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: 3979e8130ad05704f983fae8680aa94f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 836309900983124213
+    second: snowballs_0
+  - first:
+      213: 6138358273059719976
+    second: snowballs_1
+  - first:
+      213: 7220789918796043035
+    second: snowballs_2
+  - first:
+      213: 759704309477803067
+    second: snowballs_3
+  - first:
+      213: -7590031614750967612
+    second: snowballs_4
+  - first:
+      213: -6120173940819105354
+    second: snowballs_5
+  - first:
+      213: -3304986667678628128
+    second: snowballs_6
+  - first:
+      213: 8525905023088413249
+    second: snowballs_7
+  - first:
+      213: -2991952461152185066
+    second: snowballs_8
+  - first:
+      213: -5745339955280534226
+    second: snowballs_9
+  - first:
+      213: 5027938950656528159
+    second: snowballs_10
+  - first:
+      213: -1948022342624118462
+    second: snowballs_11
+  - first:
+      213: 8067215130250033829
+    second: snowballs_12
+  - first:
+      213: -1992219572169469584
+    second: snowballs_13
+  - first:
+      213: -7250435694300914135
+    second: snowballs_14
+  - first:
+      213: 3708114160756803265
+    second: snowballs_15
+  - first:
+      213: 5659552375145219519
+    second: snowballs_16
+  - first:
+      213: -5621859415061841652
+    second: snowballs_17
+  - first:
+      213: 6181302632898907066
+    second: snowballs_18
+  - first:
+      213: -6327533839563595241
+    second: snowballs_19
+  - first:
+      213: 550791252336082505
+    second: snowballs_20
+  - first:
+      213: 3947388460735403761
+    second: snowballs_21
+  - first:
+      213: -9008389169948770531
+    second: snowballs_22
+  - first:
+      213: -3208764814114185418
+    second: snowballs_23
+  - first:
+      213: -913785230860374629
+    second: snowballs_24
+  - first:
+      213: -6638812851010221690
+    second: snowballs_25
+  - first:
+      213: 9117460974820758449
+    second: snowballs_26
+  - first:
+      213: 6188907017363462806
+    second: snowballs_27
+  - first:
+      213: 4172780343072676069
+    second: snowballs_28
+  - first:
+      213: 1580946420985658472
+    second: snowballs_29
+  - first:
+      213: 7641889562046186521
+    second: snowballs_30
+  - first:
+      213: 7567969990513337090
+    second: snowballs_31
+  - first:
+      213: 5715245810996251865
+    second: snowballs_32
+  - first:
+      213: 830651356085303587
+    second: snowballs_33
+  - first:
+      213: -767321165918632308
+    second: snowballs_34
+  - first:
+      213: -743832982713048958
+    second: snowballs_35
+  - first:
+      213: 4805935534537656491
+    second: snowballs_36
+  - first:
+      213: -4859207003243060990
+    second: snowballs_37
+  - first:
+      213: -6585014215269510055
+    second: snowballs_38
+  - first:
+      213: 8301037981966049289
+    second: snowballs_39
+  - first:
+      213: -2784607646640415743
+    second: snowballs_40
+  - first:
+      213: -7442820631382063089
+    second: snowballs_41
+  - first:
+      213: 862882700720394095
+    second: snowballs_42
+  - first:
+      213: -5371193056487230113
+    second: snowballs_43
+  - first:
+      213: 2032006538055933338
+    second: snowballs_44
+  - first:
+      213: -8510470719399898681
+    second: snowballs_45
+  - first:
+      213: 4654286899147952529
+    second: snowballs_46
+  - first:
+      213: 2617427416547896962
+    second: snowballs_47
+  - first:
+      213: -8848777976038593022
+    second: snowballs_48
+  - first:
+      213: -7853319681225944028
+    second: snowballs_49
+  - first:
+      213: -3762587616808189801
+    second: snowballs_50
+  - first:
+      213: 6106428736255385362
+    second: snowballs_51
+  - first:
+      213: -6370611737842971593
+    second: snowballs_52
+  - first:
+      213: 7670137705409308199
+    second: snowballs_53
+  - first:
+      213: -103584097340496803
+    second: snowballs_54
+  - first:
+      213: 2233560327835426321
+    second: snowballs_55
+  - first:
+      213: 3185911447953000762
+    second: snowballs_56
+  - first:
+      213: 7966498224719360938
+    second: snowballs_57
+  - first:
+      213: -153059146884709322
+    second: snowballs_58
+  - first:
+      213: 724798572046153792
+    second: snowballs_59
+  - first:
+      213: 6634113934240236337
+    second: snowballs_60
+  - first:
+      213: 3821259558183696978
+    second: snowballs_61
+  - first:
+      213: 3540561730368395796
+    second: snowballs_62
+  - first:
+      213: -9024362060045990710
+    second: snowballs_63
+  - first:
+      213: -5242312480396999896
+    second: snowballs_64
+  - first:
+      213: 4042983121406869598
+    second: snowballs_65
+  - first:
+      213: -6377337425985808274
+    second: snowballs_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snowballs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 512
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0cd3a8c6b2b9b00800000000000000
+      internalID: 836309900983124213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowballs_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 387
+        width: 512
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b0ec1b354df2550800000000000000
+      internalID: 6138358273059719976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowballs_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 387
+        width: 512
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b135f8b7c26653460800000000000000
+      internalID: 7220789918796043035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowballs_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 512
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3402cc5b030b8a00800000000000000
+      internalID: 759704309477803067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowballs_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3
+        width: 512
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8b8c8c57acaa690800000000000000
+      internalID: -7590031614750967612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowballs_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3
+        width: 512
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9efd51a36c01ba0800000000000000
+      internalID: -6120173940819105354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
