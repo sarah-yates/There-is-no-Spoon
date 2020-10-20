@@ -50,3 +50,6 @@ TagManager:
   - name: Player_Layer
     uniqueID: 3228528875
     locked: 0
+  - name: Item_Layer
+    uniqueID: 536116751
+    locked: 0
