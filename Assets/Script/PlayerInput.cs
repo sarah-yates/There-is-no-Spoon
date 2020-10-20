@@ -53,4 +53,11 @@ public class PlayerInput : MonoBehaviour
     {
         rb2d.velocity = movementVector;
     }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("Pickup"))
+        {
+            other.gameObject.SetActive(false);
+        }
+    }
 }
