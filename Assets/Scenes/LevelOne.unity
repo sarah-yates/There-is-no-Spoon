@@ -154,6 +154,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.32, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &125848764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 125848760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c142a8036281cca4aa824563f269cc23, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &159773561
 GameObject:
   m_ObjectHideFlags: 0
@@ -1333,6 +1345,7 @@ GameObject:
   - component: {fileID: 217980797}
   - component: {fileID: 217980798}
   - component: {fileID: 217980799}
+  - component: {fileID: 217980800}
   m_Layer: 9
   m_Name: Spoon (3)
   m_TagString: Pickup
@@ -1431,6 +1444,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.32, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &217980800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 217980796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c142a8036281cca4aa824563f269cc23, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1647,6 +1672,7 @@ GameObject:
   - component: {fileID: 643865860}
   - component: {fileID: 643865861}
   - component: {fileID: 643865862}
+  - component: {fileID: 643865863}
   m_Layer: 9
   m_Name: Spoon (2)
   m_TagString: Pickup
@@ -1745,6 +1771,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.32, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &643865863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 643865859}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c142a8036281cca4aa824563f269cc23, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &754474104
 GameObject:
   m_ObjectHideFlags: 0
@@ -1998,6 +2036,7 @@ GameObject:
   - component: {fileID: 1451094925}
   - component: {fileID: 1451094926}
   - component: {fileID: 1451094927}
+  - component: {fileID: 1451094928}
   m_Layer: 9
   m_Name: Spoon (1)
   m_TagString: Pickup
@@ -2096,6 +2135,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.32, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &1451094928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451094924}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c142a8036281cca4aa824563f269cc23, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1487548872
 GameObject:
   m_ObjectHideFlags: 0
@@ -2752,6 +2803,7 @@ GameObject:
   - component: {fileID: 1902718213}
   - component: {fileID: 1902718214}
   - component: {fileID: 1902718215}
+  - component: {fileID: 1902718216}
   m_Layer: 9
   m_Name: Spoon (5)
   m_TagString: Pickup
@@ -2850,6 +2902,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.32, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &1902718216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1902718212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c142a8036281cca4aa824563f269cc23, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2113504882
 GameObject:
   m_ObjectHideFlags: 0
@@ -2861,6 +2925,7 @@ GameObject:
   - component: {fileID: 2113504883}
   - component: {fileID: 2113504884}
   - component: {fileID: 2113504885}
+  - component: {fileID: 2113504886}
   m_Layer: 9
   m_Name: Spoon (4)
   m_TagString: Pickup
@@ -2959,6 +3024,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.32, y: 0.32}
   m_EdgeRadius: 0
+--- !u!114 &2113504886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2113504882}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c142a8036281cca4aa824563f269cc23, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &7628718713514800013
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3034,5 +3111,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -1.98
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 1307845569243636588, guid: ca458233428bd89438323782553fc3b8, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: ca458233428bd89438323782553fc3b8, type: 3}
